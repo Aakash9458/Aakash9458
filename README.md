@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Aakash Kumar](https://www.linkedin.com/in/aakash-kumar-679921214/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-🎓 **B.Tech Graduate | Data Science & Gen AI Enthusiast | Aspiring Full-Stack Developer**  
+🎓 **B.Tech Graduate | Data Science & Gen AI Enthusiast | Python | SQL | Power BI | Excel | Machine Learning**  
 
 Hello! My name is **Aakash Kumar**, and I have completed my **Bachelor of Technology from the College of Engineering, Roorkee**. I am deeply curious about new technologies and always excited to explore and learn multiple things at the same time.  
 
